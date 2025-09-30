@@ -1,8 +1,8 @@
-# Arquitetura do Dog Walker App
+# Arquitetura do DogWalk App
 
 ## 1. Visão Geral
 
-O **Dog Walker App** é uma solução de integração de sistemas desenvolvida para gerenciar agendamentos de passeios com cachorros. A arquitetura é modular, facilitando a manutenção e a escalabilidade, e é composta por um frontend interativo, um backend principal (API de Agendamento), um microsserviço de pagamento e um banco de dados.
+O **DogWalk App** é uma solução de integração de sistemas desenvolvida para gerenciar agendamentos de passeios com cachorros. A arquitetura é modular, facilitando a manutenção e a escalabilidade, e é composta por um frontend interativo, um backend principal (API de Agendamento), um microsserviço de pagamento e um banco de dados.
 
 ## 2. Componentes da Arquitetura
 

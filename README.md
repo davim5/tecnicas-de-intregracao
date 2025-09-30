@@ -1,4 +1,4 @@
-# Técnicas de Integração de Sistemas - Dog Walker
+# Técnicas de Integração de Sistemas - DogWalk
 
 ## Objetivo do Projeto
 
@@ -6,7 +6,7 @@ Este projeto acadêmico tem como objetivo demonstrar a integração de sistemas 
 
 ## Descrição Funcional da Solução
 
-O **Dog Walker App** permite que usuários agendem passeios para seus cachorros. O processo envolve:
+O **DogWalk App** permite que usuários agendem passeios para seus cachorros. O processo envolve:
 
 1.  **Registro e Login:** Usuários podem se registrar e fazer login para acessar as funcionalidades do aplicativo.
 2.  **Visualização de Passeadores:** Usuários podem visualizar uma lista de passeadores disponíveis, com informações como nome, preço e avaliação.
@@ -83,12 +83,12 @@ A documentação detalhada das rotas da API (Sistema A) pode ser encontrada em `
 
 ## Relação com ODS 11 (Cidades e Comunidades Sustentáveis)
 
-O projeto **Dog Walker App** contribui indiretamente para o Objetivo de Desenvolvimento Sustentável (ODS) 11: "Tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes e sustentáveis". Embora não seja uma solução direta para grandes desafios urbanos, ele se alinha com a ideia de **melhorar a qualidade de vida em comunidades urbanas** de várias maneiras:
+O projeto **DogWalk App** contribui indiretamente para o Objetivo de Desenvolvimento Sustentável (ODS) 11: "Tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes e sustentáveis". Embora não seja uma solução direta para grandes desafios urbanos, ele se alinha com a ideia de **melhorar a qualidade de vida em comunidades urbanas** de várias maneiras:
 
 *   **Promoção do Bem-Estar Animal:** Ao facilitar o agendamento de passeios, o aplicativo incentiva a atividade física e o bem-estar dos animais de estimação, o que é um componente importante de comunidades saudáveis e responsáveis.
 *   **Geração de Renda Local:** O serviço de "dog walker" pode ser uma fonte de renda para indivíduos na comunidade, contribuindo para a economia local e a inclusão social.
 *   **Otimização de Tempo e Recursos:** Para donos de animais com rotinas agitadas, o aplicativo oferece uma solução prática, otimizando seu tempo e permitindo que os animais recebam a atenção necessária, o que pode reduzir o estresse e melhorar a convivência em espaços urbanos.
 *   **Uso Eficiente de Espaços Públicos:** Ao organizar e profissionalizar o serviço de passeios, pode-se promover um uso mais consciente e organizado de parques e áreas verdes, contribuindo para a manutenção e o respeito a esses espaços públicos essenciais para a sustentabilidade urbana.
 
-Em suma, ao apoiar o cuidado animal e a economia de serviços locais, o **Dog Walker App** reflete um micro-esforço que se alinha com os princípios de construção de comunidades mais agradáveis, funcionais e sustentáveis para todos os seus habitantes, incluindo os animais de estimação.
+Em suma, ao apoiar o cuidado animal e a economia de serviços locais, o **DogWalk App** reflete um micro-esforço que se alinha com os princípios de construção de comunidades mais agradáveis, funcionais e sustentáveis para todos os seus habitantes, incluindo os animais de estimação.
 

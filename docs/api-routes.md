@@ -1,6 +1,6 @@
 # Documentação das Rotas da API
 
-Este documento detalha os endpoints disponíveis para o Sistema A (API de Agendamento) do Dog Walker App.
+Este documento detalha os endpoints disponíveis para o Sistema A (API de Agendamento) do DogWalk App.
 
 ## Sistema A: API de Agendamento
 
