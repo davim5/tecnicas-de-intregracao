@@ -1,0 +1,115 @@
+{
+  "info": {
+    "_postman_id": "[GENERATED_ID]",
+    "name": "Dog Walker App Collection",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "User Registration",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n    \"name\": \"Novo Usuario\",\n    \"email\": \"novo.usuario@example.com\",\n    \"role\": \"user\"\n}"
+        },
+        "url": {
+          "raw": "http://localhost:3001/users/register",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3001",
+          "path": [
+            "users",
+            "register"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "User Login",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n    \"email\": \"novo.usuario@example.com\"\n}"
+        },
+        "url": {
+          "raw": "http://localhost:3001/users/login",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3001",
+          "path": [
+            "users",
+            "login"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "List Walkers",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3001/walkers",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3001",
+          "path": [
+            "walkers"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Schedule Walk",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n    \"userId\": 1,\n    \"walkerId\": 1,\n    \"value\": 30.00\n}"
+        },
+        "url": {
+          "raw": "http://localhost:3001/walks/schedule",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3001",
+          "path": [
+            "walks",
+            "schedule"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}
